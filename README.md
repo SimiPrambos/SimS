@@ -1,2 +1,2 @@
 # SimS
-Automatically shodan scanners
+to automatically installations and use shodan search engine CLI mode.
